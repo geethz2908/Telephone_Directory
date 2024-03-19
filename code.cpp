@@ -146,7 +146,8 @@ public:
 
 void displayMenu() 
 {
-    cout << "\n1. Add Person Contact"
+    cout << "\n*************  Welcome to Telephone_Directory *************\n"
+         << "\n1. Add Person Contact"
          << "\n2. Add Business Contact"
          << "\n3. Search Contact"
          << "\n4. Display Contacts"
